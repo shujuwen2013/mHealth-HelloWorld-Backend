@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="AWS" uploadOnCheckin="ad6e1de8-ef04-49bc-9fdf-5e488cb0e9bd">
+    <serverData>
+      <paths name="AWS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="HelloWorld/" local="$PROJECT_DIR$" web="HelloWorld/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="AWS" />
+  </component>
+</project>
